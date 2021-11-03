@@ -1,0 +1,26 @@
+.step{
+	margin:20px auto;
+}
+
+.step label{
+color: blue;
+font-weight: bold;
+}
+
+.step input{
+	margin: 10px 0 10px 10px;
+	padding: 10px;
+	color: blue;
+	font-weight: bold;
+	border: 2px solid blue;
+	border-radius: 10px;
+	outline: 0;
+}
+
+
+.step input:last-child:hover{
+	background-color: blue;
+	color: #fff;
+	cursor: pointer;
+	outline: 0;
+}
